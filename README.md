@@ -25,4 +25,4 @@ I made all the code using as base a 5th generation iPad Pro (12.9-inch) on Xcode
 
 Click on the image to see the playground in action.
 
-[![Dinner Run Demo](https://i.imgur.com/jNRUdRr)](https://youtu.be/OOMrZj_hsI8)
+[![Dinner Run Demo](https://i.imgur.com/OuJ0jty.png)](https://youtu.be/OOMrZj_hsI8)
