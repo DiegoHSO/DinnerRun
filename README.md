@@ -11,7 +11,7 @@ In this playground, you'll help the philosophers to have a proper dinner even if
 
 Inspired by Concurrent Programming classes I was having in college during the Swift Student Challenge submission period, I created a Playground App that explains in an interactive and fun way about the Dining Philosophers problem.
 
-During the experience, you can face many options that may or may not help the philosophers to have dinner! 🍴
+During the experience, you will face many options that may or may not help the philosophers to have dinner! 🍴
 
 # How it was made?
 
