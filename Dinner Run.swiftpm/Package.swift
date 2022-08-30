@@ -23,19 +23,22 @@ let package = Package(
             iconAssetName: "AppIcon",
             accentColorAssetName: "AccentColor",
             supportedDeviceFamilies: [
-                .pad,
-                .phone
+                .pad
             ],
             supportedInterfaceOrientations: [
                 .landscapeRight,
                 .landscapeLeft
-            ]
+            ],
+            additionalInfoPlistContentFilePath: "MoreInfo.plist"
         )
     ],
     targets: [
         .executableTarget(
             name: "AppModule",
-            path: "."
+            path: ".",
+            exclude: [
+                "MoreInfo.plist"
+            ]
         )
     ]
 )
