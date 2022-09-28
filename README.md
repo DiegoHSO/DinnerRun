@@ -13,7 +13,7 @@ Inspired by Concurrent Programming classes I was having in college during the Sw
 
 During the experience, you will face many options that may or may not help the philosophers to have dinner! 🍴
 
-# How it was made?
+# How it's made?
 
 I coded Dinner Run entirely in SwiftUI and customized some amazing assets from Freepik and Flaticon. I used as reference for the explanations an amazing book from M. Ben Ari, called "Principles of concurrent and distributed programming". You can find it [here](https://www.amazon.com.br/Principles-Concurrent-Distributed-Programming-2nd/dp/032131283X).
 
